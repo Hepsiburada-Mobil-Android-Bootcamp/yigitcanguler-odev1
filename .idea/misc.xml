@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/drawable/food_category_background.xml" value="0.3828125" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/drawable/input_background.xml" value="0.3828125" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/drawable/login_button.xml" value="0.3828125" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/drawable/socials_button_background.xml" value="0.3828125" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/activity_home_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/activity_live_data.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/activity_sign_screen.xml" value="0.33" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/food_category_background.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/food_type_row.xml" value="0.2884963768115942" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/fragment_search.xml" value="0.35688405797101447" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/fragment_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/layout/restaurants_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/React/test/figmaHomework/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
